@@ -1,4 +1,4 @@
-package net.LilBeans.VanillaBean;
+package net.lilbeanteam.vanillabeanmod;
 
 import java.util.List;
 import java.util.Set;
